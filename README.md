@@ -1,0 +1,1 @@
+# SequentialMatrixGames.jl
